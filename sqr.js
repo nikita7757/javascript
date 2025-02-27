@@ -5,4 +5,5 @@ let arr = [2,8,12,14,15];
 arr.forEach(function square(val){
     val = val*val;
     console.log(val);
+    
 })
